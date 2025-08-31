@@ -1,7 +1,3 @@
-# # Welcome to My GitHub!
+# # 欢迎来到我的GitHub!
 
-This is my first step on GitHub. My goal is to become a great Java developer.Earn the first sum of money in one's life。
-
-**Today's Target:**
-- [x] Create my first GitHub repository
-- [x] Edit the README.md file
+我将会在这里记录我从大三才开始学习的所有东西（别问前两年干什么去了）
